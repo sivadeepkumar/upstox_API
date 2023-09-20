@@ -1,0 +1,1 @@
+Set the Callback url in Upstox app should match to redirect_url in Django .env file
