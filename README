@@ -1,6 +1,10 @@
 STEP1:
 Create an App in Upstox with  https:127.0.0.1.8000/upstox/callback
 Getting Client_id,Client_Secret_code
+By using this you will get code=''(query parameter) in URL
+
+
+
 
 
 Set the Callback url in Upstox app should match to redirect_url in Django .env file
